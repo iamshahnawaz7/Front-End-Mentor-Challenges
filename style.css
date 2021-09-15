@@ -1,0 +1,104 @@
+
+body{
+    background-image: url("./images/pattern-background-desktop.svg");
+    background-color: hsl(225,100%,94%);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain; 
+    height: 83vh;
+    width: 95vw;
+    
+}
+.card 
+{
+    margin: auto;
+    margin-top: 7.7%;
+    height: 90% ;
+    width: 27%;
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+} 
+.hero_image{
+     width:100%;
+     height:33%;
+     /*border-top-left-radius: 10px;
+     border-top-right-radius:10px; */
+}
+.abc{
+    margin-top: 30px;
+    margin-left: 110px;
+    font-weight: 900;
+    font-family: "Red Hat Display";
+    font-size: 1.3rem;
+}
+.def{
+    text-align: center;
+    font-weight: 300;
+    font-family: "Red Hat Display";
+    font-size: 1rem;
+    margin: 10px auto;
+    /* margin-top: 20px;
+    margin-right: 20px; */
+    width: 75%;
+}
+.ghi{
+ margin: auto;
+ margin-top: 20px;
+ background-color: hsl(225, 100%, 98%);
+ width:330px;
+ height:85px;
+ border:none;
+ display: flex;
+}
+.logo{
+   margin-left: 20px;
+   margin-top: 20px;
+   width: 35px;
+   height: 35px;
+}
+.annual{
+    font-weight: 900;
+font-family: "Red Hat Display";
+margin-left: 22px;
+margin-top: 19px;
+}
+.amount{
+    color: #00000070;
+    font-weight: 900;
+    font-size: 0.8rem;
+    font-family: "Red Hat Display";
+    margin-left: 22px;
+}
+.linkage{
+    margin-left: 80px;
+    margin-top: 27px;
+    font-weight: 900;
+    font-family: "Red Hat Display";
+    font-size: 0.9rem;
+}
+.payment{
+ margin: auto;
+ margin-top: 20px;
+ background-color: hsl(245, 75%, 56%);
+ width:330px;
+ height:45px;
+ border-radius:10px;
+ box-shadow: 2px 9px 15px -2px rgba(0, 0, 0, 0.384);
+}
+.proceed_to_payment{
+    font-family: "Red Hat Display";
+    color: white;
+    font-size: 0.9rem;
+    margin-left: 100px;
+    /* margin-top: 10px; */
+    padding-top: 11px;
+}
+.cancel{
+    font-family: "Red Hat Display";
+    font-weight: 900;
+    color: #00000099;
+    margin-left: 150px;
+    margin-top: 20px;
+
+}
